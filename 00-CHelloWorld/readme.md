@@ -1,1 +1,1 @@
-
+Pude Obtener la version del compilador con el comando en la terminal gcc helloworld.c -std=C23. De esa manera me apareció un error donde decía que no tengo ese standard y que utilice C11. Y así fue como compiló correctamente y por descarte pude saberlo. Para la version utilicé el comando gcc --version.
