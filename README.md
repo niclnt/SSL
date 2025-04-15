@@ -5,3 +5,4 @@ El compilador seleccionado es GCC de MinGW con el standard C11, y la versión es
 
 -Nicolas Agustin Bustos
 -Legajo: 208452-1
+-Comision: K2002
